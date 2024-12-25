@@ -2,7 +2,7 @@ name: JWT Generator
 
 on:
   schedule:
-    - cron: '0 0,6 * * *'
+    - cron: '0 0,7 * * *'
   push:
     branches:
       - master
